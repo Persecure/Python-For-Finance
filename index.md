@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/93418272/185640010-764f19d3-7db7-4620-b847-57e99b55e1f7.png)
+
 <!-- wp:paragraph {"fontSize":"large"} -->
 <p class="has-large-font-size">1 - Loading Financial Data</p>
 <!-- /wp:paragraph -->
